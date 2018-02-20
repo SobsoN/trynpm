@@ -1,0 +1,11 @@
+.container { max-width: 1170px; width: 100%; margin: 0 auto; display: -ms-flexbox; display: flex; }
+
+.container div { min-height: 250px; display: -ms-flexbox; display: flex; -ms-flex-align: center; align-items: center; -ms-flex-pack: center; justify-content: center; }
+
+.container div p { font-size: 25px; }
+
+.container .first-div { background-color: #f00; -ms-flex: 1; flex: 1; }
+
+.container .second-div { background-color: #0f0; -ms-flex: 1; flex: 1; }
+
+.container .third-div { background-color: #00f; -ms-flex: 1; flex: 1; }
